@@ -10,3 +10,6 @@ To get started:
 4. Once the project is open, you can create a new Python file by right clicking on the project name (Project tab, on the left) and selecting _New > Python File_
 5. To execute your program, right click on the Python file (in the Project tab) to be executed and select _Run_
 6. Commit and push the changes you made back to GitHub, from the VCS menu in PyCharm
+
+## Solution
+The solution of the exercise is in the [solution](../../tree/solution) branch
